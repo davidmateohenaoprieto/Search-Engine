@@ -1,4 +1,6 @@
 import requests
+from selenium import webdriver
+
 
 class CustomRequests:
     
@@ -17,8 +19,10 @@ class CustomRequests:
             return None
 
     def read_request(request):
-        # Decodificar el contenido de la respuesta como texto
-        return request.text
+        driver = webdriver.Chrome()
+        driver.get(request.url)
+        html_content = driver.page_source
+        return html_content
 
     def get_request_url(request):
         # Obtener la URL asociada con la solicitud

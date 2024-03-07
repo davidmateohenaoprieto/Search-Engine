@@ -1,54 +1,43 @@
 from utils.CustomRequests import CustomRequests as CR
 from utils.URLVerification import URLVerification as Util
-
-def go(n:int, dictionary:str, output:str):
-    """La URL de inicio es : https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo 
-    el dominio limitante es: educacionvirtual.javeriana.edu.co"""
-
-    url = "https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo"
-    domain = "educacionvirtual.javeriana.edu.co"
-
-    # Ejemplo de uso funcion is absolute url
-    url1 = "https://www.ejemplo.com"
-    url2 = "/ruta/relativa"
-
-    print(Util.is_absolute_url(url1))  # True
-    print(Util.is_absolute_url(url2))  # False
-
-    #Ejemplo de uso funcion convert_if_relative_url
-    url_pagina_actual = "https://www.ejemplo.com/carpeta/pagina.html"
-    url_relativa = "../imagen.jpg"
-
-    url_absoluta = Util.convert_if_relative_url(url_pagina_actual, url_relativa)
-    print(url_absoluta)
-
-    # Ejemplo de uso funcion remove_fragment
-    url_con_fragmento = "https://www.ejemplo.com/index.html#minorprogramincomputerscience"
-    url_sin_fragmento = Util.remove_fragment(url_con_fragmento)
-    print(url_sin_fragmento)
-
-    #Verificaciones de metodos de CustomRequests
-        # URL de ejemplo
-    #url = "https://www.example.com"
-
+from utils.CoursesDict import CoursesDict as CD
+import bs4
+def coursesWebScraping(url:str):
     # Obtener la solicitud
     request = CR.get_request(url)
     if request:
         print("Solicitud exitosa.")
         # Si la solicitud fue exitosa, leer el contenido de la respuesta
         content = CR.read_request(request)
-        print("Contenido de la respuesta:", content)
-
         # Obtener la URL asociada con la solicitud
         request_url = CR.get_request_url(request)
         print("URL de la solicitud:", request_url)
     else:
-        print("La solicitud no fue exitosa.")    
+        print("La solicitud no fue exitosa.")
+
+    cursos=CD.listCourses(content)
+    CD.generarJSON(cursos)
+
+def go(n:int, dictionary:str, output:str):
+    return 0
+
 
 
 def main():
-    # Lógica principal de tu programa
-    go(5, "Ingeniería de Software", "output.txt")
+    """Funcion que se encarga de realizar el web scraping de la pagina de la universidad 
+    Javeriana para la lista de cursos que ofrece en su portal web y crear un archivo con dicha información
+    (Se comenta la función ya que el archivo ya está creado)
+    """
+    #coursesWebScraping("https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo")
+
+    """
+    Función que se va a encargar de crear el índice de mapea palabras a cursos
+    """
+    n=input("Ingrese el número de páginas a rastrear: ")
+    dictionary="cursos.json"
+    output=input("Ingrese el nombre del archivo de salida: ")
+    output+=".txt"
+    go(n,dictionary,output)
 
 if __name__ == "__main__":
     main()
