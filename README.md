@@ -1,6 +1,4 @@
 # Laboratorio 2 - Analitica de Datos 
-##### En este laboratorio, desarrollarás un motor de búsqueda de cursos y un rastreador web que recopila información de un catálogo universitario para construir un índice. El objetivo es brindarte experiencia en programación en Python y trabajar con documentos HTML obtenidos de la web.
-#### Autores: Gabriela Mercedes Luigi, David Mateo Henao
 
 - ##### Introducción:
   Para el desarrollo de este taller vamos a estar utilizando como nuestra  base de información el portal Web de la Javeriana para los cursos que la universidad ofrece parte de las carreras de Pregrado, Posgrados y Titulaciones. Este fue el enlace utilizado para el desarrollo de este proyecto: 
