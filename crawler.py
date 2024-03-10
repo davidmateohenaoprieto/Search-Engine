@@ -1,6 +1,8 @@
 from utils.CustomRequests import CustomRequests as CR
 from utils.URLVerification import URLVerification as Util
 from utils.CoursesDict import CoursesDict as CD
+from utils.compare import CourseComparator as comp
+from utils.search import CourseSearcher as search
 from bs4 import BeautifulSoup
 import requests
 import re
@@ -109,39 +111,6 @@ class Indexer:
                 for course_id in course_ids:
                     writer.writerow([course_id, word])
 
-
-
-class CourseComparator:
-    def __init__(self, index):
-        self.index = index
-
-    def compare(self, course1_id, course2_id):
-        course1_words = set(self.index.get(course1_id, []))
-        course2_words = set(self.index.get(course2_id, []))
-        common_words = course1_words.intersection(course2_words)
-        
-        # Verificar si hay palabras comunes
-        if not common_words:
-            return 0.0
-        
-        # Calcular la similitud evitando la división por cero
-        similarity = len(common_words) / (len(course1_words) + len(course2_words) - len(common_words))
-        return similarity
-
-
-class CourseSearcher:
-    def __init__(self, index):
-        self.index = index
-
-    def search(self, keywords):
-        relevant_courses = {}
-        for keyword in keywords:
-            for course_id in self.index.get(keyword.lower(), []):
-                relevant_courses[course_id] = relevant_courses.get(course_id, 0) + 1
-        sorted_courses = sorted(relevant_courses.items(), key=lambda x: x[1], reverse=True)
-        return [course_id for course_id, relevance in sorted_courses]
-
-
 def find_non_zero_similarity(comparator, courses):
     for course1_id in courses:
         for course2_id in courses:
@@ -161,8 +130,8 @@ def go(n:int, dictionary:str, output:str):
     indexer.save_index_to_csv(output)
 
     # Después de haber construido el índice de cursos
-    comparator = CourseComparator(indexer.index)
-    searcher = CourseSearcher(indexer.index)
+    comparator = comp(indexer.index)
+    searcher = search(indexer.index)
 
     # Suponiendo que courses es una lista de todos los identificadores de cursos
     courses = indexer.index.keys()
