@@ -1,0 +1,2378 @@
+[
+    {
+        "id": 1,
+        "nombre": "Diagnóstico y tratamiento no invasivo de los desórdenes temporomandibulares y dolor orofacial",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/temporomandibulares",
+        "duracion": "30 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 1.250.000"
+    },
+    {
+        "id": 2,
+        "nombre": "Repostería y Panadería Saludable - Oriente",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/reposteria-j-colombia",
+        "duracion": "20 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 300.000"
+    },
+    {
+        "id": 3,
+        "nombre": "Cuidado al Adulto Mayor para Cuidadores con Formación Técnica en Salud",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/cuidado-adulto-mayor-formacion",
+        "duracion": "20 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 300.000"
+    },
+    {
+        "id": 4,
+        "nombre": "Francisco, Un Líder Mundial",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/francisco-un-lider-mundial",
+        "duracion": "15 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ Gratuito"
+    },
+    {
+        "id": 5,
+        "nombre": "Atención Integral del Paciente Intoxicado: Aprendizaje mediante Simulación de Alta Fidelidad",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/atencion-paciente-intoxicado",
+        "duracion": "16 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 980.000"
+    },
+    {
+        "id": 6,
+        "nombre": "“Las Mujeres de a Pie” Recuperación de la Historia Social de las Mujeres desde la Genealogía de Nuestras Ancestras",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/las-mujeres-de-a-pie",
+        "duracion": "36 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 790.000"
+    },
+    {
+        "id": 7,
+        "nombre": "La Producción Campesina y Familiar: Bases Conceptuales para la Formulación de Políticas Públicas",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/produccion-campesina-familiar",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 1.400.000"
+    },
+    {
+        "id": 8,
+        "nombre": "Aproximación a los Temas de Envejecimiento y Vejez desde las Ciencias Sociales",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/aproximacion-a-los-temas-de-envejecimiento-y-vejez",
+        "duracion": "32 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 575.000"
+    },
+    {
+        "id": 9,
+        "nombre": "Atención Integral del Paciente con Enfermedades Huérfanas / Raras",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/atencion-integral",
+        "duracion": "54 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 1.550.000"
+    },
+    {
+        "id": 10,
+        "nombre": "Gestión Ambiental y Salud Pública: una mirada integradora",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/gestion-ambiental-y-salud-publica",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 1.150.000"
+    },
+    {
+        "id": 11,
+        "nombre": "Viaje Iniciático de Crecimiento Personal",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/viaje-crecimiento-personal",
+        "duracion": "24 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 450.000"
+    },
+    {
+        "id": 12,
+        "nombre": "Gerencia en Enfermería",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/gerencia-enfermeria",
+        "duracion": "50 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 890.000"
+    },
+    {
+        "id": 13,
+        "nombre": "Demografía para la Gestión en Salud Pública",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/demografia-gestion-salud-publica",
+        "duracion": "36 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 990.000"
+    },
+    {
+        "id": 14,
+        "nombre": "Morfología de Células Hemáticas: Asociación con diferentes patologías",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/morfologiacelulashematicas",
+        "duracion": "30 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 790.000"
+    },
+    {
+        "id": 15,
+        "nombre": "Bienes Temporales de la Iglesia",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/bienes-temporales-iglesia",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 560.000"
+    },
+    {
+        "id": 16,
+        "nombre": "Biología Molecular Aplicada a la Detección, Identificación y Diagnóstico de Microorganismos Infecciosos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/biologia-molecular-y-diagnostico-de-microorganismos",
+        "duracion": "32 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 1.280.000"
+    },
+    {
+        "id": 17,
+        "nombre": "R1 Aviation Safety Management Systems / R1 Sistema de Gestión de Seguridad Aérea (SMS)",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/safety-management-systems",
+        "duracion": "72 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 3.365 USD"
+    },
+    {
+        "id": 18,
+        "nombre": "R2 Operational Risk Management/R2 Gestión de Riesgo Operacional",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/operational-risk-management",
+        "duracion": "32 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 1248 USD"
+    },
+    {
+        "id": 19,
+        "nombre": "R4 Basic Incident/Accident Investigation / R4 Investigación Básica de Incidentes/Accidentes",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/incident-accident-investigation",
+        "duracion": "32 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 1.248 USD"
+    },
+    {
+        "id": 20,
+        "nombre": "R5 Aviation Technical Regulations / R5 Regulaciones Técnicas de Aviación",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/aviation-technical-regulations",
+        "duracion": "24 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 937USD"
+    },
+    {
+        "id": 21,
+        "nombre": "R3 Human Factors in Safety / R3 Factores Humanos en Seguridad",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/human-factors-in-safety",
+        "duracion": "32 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 1.248 USD"
+    },
+    {
+        "id": 22,
+        "nombre": "Intervención de Enfermería para la Prevención y Control de Infecciones Asociadas a la Atención en Salud",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/intervencion-enfermeria",
+        "duracion": "50 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 890.000"
+    },
+    {
+        "id": 23,
+        "nombre": "Capacitación en Centrales de Esterilización",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/capacitacion-en-centrales-de-esterilizacion",
+        "duracion": "24 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 390.000"
+    },
+    {
+        "id": 24,
+        "nombre": "SB1 Aviation and the Environment / SB1 Aviación y Medio Ambiente",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/aviation-and-environment",
+        "duracion": "16 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 624 USD"
+    },
+    {
+        "id": 25,
+        "nombre": "SB2 Safety Management System Resilience / SB2 Resiliencia de Seguridad en el Sistema de Gestión de Seguridad",
+        "enlace": "https://educacionvirtual.javeriana.edu.co//management-system-resilience",
+        "duracion": "16 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 624 USD"
+    },
+    {
+        "id": 26,
+        "nombre": "SA3 Emergency Response Planning / SA3 Respuesta a la Emergencia / Programa de Gestión de Crisis",
+        "enlace": "https://educacionvirtual.javeriana.edu.co//emergency-response-planning",
+        "duracion": "32 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 1248 USD"
+    },
+    {
+        "id": 27,
+        "nombre": "SB4 Safety Performance Indicators in SMS / SB4 Indicadores de Desempeño de Seguridad en el SMS",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/performance-indicators-in-sms",
+        "duracion": "16 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 624 USD"
+    },
+    {
+        "id": 28,
+        "nombre": "SB3 Safety Planning & Governance / SB3 Planificación de Seguridad y Gobernanza",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/planning-governance",
+        "duracion": "16 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 624 USD"
+    },
+    {
+        "id": 29,
+        "nombre": "SA2 Aviation Quality Auditor / SA2 Auditor de Calidad de Aviación",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/aviation-quality-auditor",
+        "duracion": "40 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 1.560 USD"
+    },
+    {
+        "id": 30,
+        "nombre": "SA1 Advanced Incident Investigation / SA1 Capacitación Avanzada en Investigación de Incidentes",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/advanced-incident-investigation",
+        "duracion": "40 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 1.560 USD"
+    },
+    {
+        "id": 31,
+        "nombre": "SB5 Threat and Error Management / SB5 Gestión de Amenazas y Errores (TEM)",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/threat-and-error-management",
+        "duracion": "24 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 937 USD"
+    },
+    {
+        "id": 32,
+        "nombre": "La Vida es Impro: Entrenamiento de Habilidades Blandas con Improvisación Teatral",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/vida-impro",
+        "duracion": "24 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 850.000"
+    },
+    {
+        "id": 33,
+        "nombre": "El Evangelio de San Juan: un libro para comprender la vida desde Dios",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/el-evangelio-de-san-juan",
+        "duracion": "12 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 150.000"
+    },
+    {
+        "id": 34,
+        "nombre": "Inserción de Implante Subdérmico y Dispositivo Intrauterino (DIU)",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/insercion-implante-subdermico",
+        "duracion": "6 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "02/12/2023",
+        "precio": "$ 470.000"
+    },
+    {
+        "id": 35,
+        "nombre": "Liderazgo y Desarrollo de Equipos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co//liderazgo-y-desarrollo-de-equipos",
+        "duracion": "30 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "31/10/2023",
+        "precio": "$ 850.000"
+    },
+    {
+        "id": 36,
+        "nombre": "Respira, Medita, Visualiza, para Restablecer la Armonía Interior",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/respira-medita-visualiza",
+        "duracion": "8 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "07/11/2023",
+        "precio": "$  170.000"
+    },
+    {
+        "id": 37,
+        "nombre": "Acción Humanitaria y Seguridad del Personal Humanitario",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/accion-humanitaria-seguridad-personal-humanitario",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 790.000"
+    },
+    {
+        "id": 38,
+        "nombre": "Marketing Digital y Redes para Emprendedores",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/marketing-digital-para-emprendedores",
+        "duracion": "20 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "14/11/2023",
+        "precio": "$ 650.000"
+    },
+    {
+        "id": 39,
+        "nombre": "Gestión del Bienestar Organizacional Desde el Sentido de la Vida",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/gestion-bienestar-organizacional",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 900.000"
+    },
+    {
+        "id": 40,
+        "nombre": "Gerencia de Empresas Inmobiliarias",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/gerencia-empresas-inmobiliarias",
+        "duracion": "36 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 990.000"
+    },
+    {
+        "id": 41,
+        "nombre": "Música para Videojuegos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/musica-para-videojuegos",
+        "duracion": "60 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 890.000"
+    },
+    {
+        "id": 42,
+        "nombre": "Herramientas para la Implementación de la APS en los Equipos de Salud",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/aps-en-los-equipos-de-salud",
+        "duracion": "32 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 724.000"
+    },
+    {
+        "id": 43,
+        "nombre": "Introducción a la Pedagogía y Didáctica",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/introduccion-pedagogia",
+        "duracion": "48 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "09/11/2023",
+        "precio": "$ 850.000"
+    },
+    {
+        "id": 44,
+        "nombre": "Certificación Internacional en Metodologías Ágiles: Fundamentals",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/certificacion-internacional-en-metodologias-agiles",
+        "duracion": "16 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 1.190.000"
+    },
+    {
+        "id": 45,
+        "nombre": "Normas Internacionales de Sostenibilidad",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/normas-internacionales-de-sostenibilidad",
+        "duracion": "48 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "21/11/2023",
+        "precio": "$ 890.000"
+    },
+    {
+        "id": 46,
+        "nombre": "Negocios de Moda Sostenible: Visión desde la Economía Circular y Transformación Digital",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/negocios-moda-sostenible",
+        "duracion": "42 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 930.000"
+    },
+    {
+        "id": 47,
+        "nombre": "Gobierno Corporativo y Compliance - Caribe",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/gobierno-corporativo-y-compliance-caribe",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "14/11/2023",
+        "precio": "$ 1.000.000"
+    },
+    {
+        "id": 48,
+        "nombre": "Huella Hídrica y Huella de Biodiversidad",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/huella-hidrica-y-huella-de-biodiversidad",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 1.070.000"
+    },
+    {
+        "id": 49,
+        "nombre": "SCRUM Master I: Preparación para la certificación internacional PeopleCert",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/peoplecert-scrum-master",
+        "duracion": "24 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Próximamente",
+        "precio": "$ 1.590.000"
+    },
+    {
+        "id": 50,
+        "nombre": "Computación en la Nube: Inmersión en los Principales Servicios",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/computacion-en-la-nube-inmersion-en-los-principales-servicios",
+        "duracion": "38 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "09/04/2024",
+        "precio": "$ 970.000"
+    },
+    {
+        "id": 51,
+        "nombre": "Arteterapia Infanto-juvenil",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/arteterapia-infanto-juvenil",
+        "duracion": "60 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "26/02/2024",
+        "precio": "$ 1.590.000"
+    },
+    {
+        "id": 52,
+        "nombre": "Sonido en Vivo para Aficionados - Operario de sistema de amplificación de sonido para eventos y conciertos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/sonido-en-vivo-aficionados",
+        "duracion": "30 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "22/11/2023",
+        "precio": "$ 590.000"
+    },
+    {
+        "id": 53,
+        "nombre": "People’s Analytics",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/people-analytics",
+        "duracion": "18 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "26/01/2024",
+        "precio": "$ 650.000"
+    },
+    {
+        "id": 54,
+        "nombre": "De los PDT a los PISCC: Claves para construir y articular los Planes de Desarrollo Territorial y los Planes Integrales de Seguridad y Convivencia Ciudadana",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/de-los-pdt-a-los-piscc",
+        "duracion": "9 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "11/12/2023",
+        "precio": "$ gratis"
+    },
+    {
+        "id": 55,
+        "nombre": "Soporte Vital Básico bls/svb y Soporte Cardiovascular Avanzado acls/scva - AHA",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/soporte-vital",
+        "duracion": "24 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "08/03/2024",
+        "precio": "$ 1.525.000"
+    },
+    {
+        "id": 56,
+        "nombre": "Cómo Escribir y Publicar en Ciencias de la Salud",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/escribirencienciassalud",
+        "duracion": "30 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "7/03/2024",
+        "precio": "$ 785.000"
+    },
+    {
+        "id": 57,
+        "nombre": "Toxicología ocupacional",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/toxicologia-ocupacional",
+        "duracion": "24 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "9/04/2024",
+        "precio": "$ 773.000"
+    },
+    {
+        "id": 58,
+        "nombre": "Transporte Neonatal",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/transporte-neonatal",
+        "duracion": "20 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "4/04/2024",
+        "precio": "$ 1.109.000"
+    },
+    {
+        "id": 59,
+        "nombre": "Informática y Analítica en Seguridad y Salud en el Trabajo",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/informatica-y-analitica-en-seguridad-y-salud-trabajo",
+        "duracion": "42 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "3/05/2024",
+        "precio": "$ 1.335.000"
+    },
+    {
+        "id": 60,
+        "nombre": "Gestión de la Exposición Ocupacional",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/gestion-ocupacional",
+        "duracion": "24 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "6/08/2024",
+        "precio": "$ 660.000"
+    },
+    {
+        "id": 61,
+        "nombre": "Vigilancia de la Salud Auditiva, más allá de la Audiometría",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/mas-alla-audiometria",
+        "duracion": "24 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "1/10/2024",
+        "precio": "$ 639.000"
+    },
+    {
+        "id": 62,
+        "nombre": "Soporte Vital Básico Bls",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/soporte-vital-básico-bls",
+        "duracion": "6 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "2/03/2024",
+        "precio": "$ 437.000"
+    },
+    {
+        "id": 63,
+        "nombre": "¿Qué es la Computación en la Nube? Lo Primero que Debes Saber",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/que-es-la-computacion-en-la-nube-lo-primero-que-debes-saber",
+        "duracion": "15 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "30/01/2024",
+        "precio": "$ 450.000"
+    },
+    {
+        "id": 64,
+        "nombre": "Comunicación Gubernamental para Gobiernos Locales: Comunicación de Políticas Públicas, en riesgo y de crisis",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/comunicación-gubernamental-para-gobiernos-locales",
+        "duracion": "9 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "15/01/2024",
+        "precio": "$ gratis"
+    },
+    {
+        "id": 65,
+        "nombre": "Certificación en Coaching Sistémico de Equipos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/certificacion-coaching-sistemico",
+        "duracion": "60 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "19/03/2024",
+        "precio": "$ 6.568.800"
+    },
+    {
+        "id": 66,
+        "nombre": "El Poder de la Transformación Digital: Principios, Retos, Oportunidades",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/el-poder-de-la-transformación-digital-principios-retos-oportunidades",
+        "duracion": "48 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "23/02/2024",
+        "precio": "$ 1.130.000"
+    },
+    {
+        "id": 67,
+        "nombre": "Orquestación",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/orquestacion",
+        "duracion": "60 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "24/02/2024",
+        "precio": "$ 997.000"
+    },
+    {
+        "id": 68,
+        "nombre": "Contexto, Marco Regulatorio e Introducción a la Infraestructura Ferroviaria",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/marco-regulatorio-infraestructura-ferroviaria",
+        "duracion": "30 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "23/02/2024",
+        "precio": "$ 997.000"
+    },
+    {
+        "id": 69,
+        "nombre": "Fotografía Digital Básica",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/fotografia-digital",
+        "duracion": "45 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "20/02/2024",
+        "precio": "$ 1.110.000"
+    },
+    {
+        "id": 70,
+        "nombre": "ConectARTE: Taller de Creatividad, Ilustración y Escritura para Artistas y no Artistas",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/conectarte",
+        "duracion": "36 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "29/02/2024",
+        "precio": "$ 549.000"
+    },
+    {
+        "id": 71,
+        "nombre": "Análisis de datos para el monitoreo y mejora de procesos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/analisis-datos-monitoreo-mejora-procesos",
+        "duracion": "44 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "27/02/2024",
+        "precio": "$ 1.050.000"
+    },
+    {
+        "id": 72,
+        "nombre": "Crianza y Educación Consciente",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/crianza-y-educacion-consciente",
+        "duracion": "18 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "28/02/2024",
+        "precio": "$ 340.000"
+    },
+    {
+        "id": 73,
+        "nombre": "Aprendiendo con Videojuegos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/aprendiendo-con-videojuegos",
+        "duracion": "40 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "22/02/2024",
+        "precio": "$ 695.000"
+    },
+    {
+        "id": 74,
+        "nombre": "Acueductos Veredales",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/acueductos-veredales",
+        "duracion": "30 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "27/02/2024",
+        "precio": "$ 885.000"
+    },
+    {
+        "id": 75,
+        "nombre": "Neurociencias Aplicadas al Liderazgo y Coaching",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/neurociencias-liderazgo-y-coaching",
+        "duracion": "42 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "16/04/2024",
+        "precio": "$ 3.731.840"
+    },
+    {
+        "id": 76,
+        "nombre": "Diálogo Social y Género",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/dialogo-social-y-genero",
+        "duracion": "30 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "proximamente",
+        "precio": "$ 660.000"
+    },
+    {
+        "id": 77,
+        "nombre": "Storytelling y Presentaciones basadas en la Generación de Datos Estadísticos",
+        "enlace": "storytelling",
+        "duracion": "20 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "30/04/2024",
+        "precio": "$ 549.000"
+    },
+    {
+        "id": 78,
+        "nombre": "Indicadores de Gestión en Comunicación y Datos para Estrategias de Comunicación",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/indicadores-de-gestion-y-comunicacion",
+        "duracion": "24 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "3/04/2024",
+        "precio": "$ 605.000"
+    },
+    {
+        "id": 79,
+        "nombre": "Redacción de Artículos Académicos y Científicos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/redaccion-articulos-academicos-cientificos",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "05/03/2024",
+        "precio": "$ 820.000"
+    },
+    {
+        "id": 80,
+        "nombre": "Presentaciones Ejecutivas de Alto Impacto",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/presentaciones-ejecutivas-de-alto-impacto",
+        "duracion": "30 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "9/04/2024",
+        "precio": "$ 890.000"
+    },
+    {
+        "id": 81,
+        "nombre": "Implementación Medidas de Justicia Transicional en Colombia",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/implementacion-medidas-justicia-transicional",
+        "duracion": "60 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "21/05/2024",
+        "precio": "$ 1.445.000"
+    },
+    {
+        "id": 82,
+        "nombre": "“Desarrollar el Carisma”   Taller de Actuación, para NO Actores",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/desarrollar-carisma-taller-actuacion",
+        "duracion": "24 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "7/05/2024",
+        "precio": "$ 1.010.000"
+    },
+    {
+        "id": 83,
+        "nombre": "Formación Profesional de Wedding Planner",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/wedding-planner",
+        "duracion": "56 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "6/03/2024",
+        "precio": "$ 1.350.000"
+    },
+    {
+        "id": 84,
+        "nombre": "Computación en la Nube: Conceptos de la Infraestructura de TI",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/computacion-en-la-nube-conceptos-de-la-infraestructura-de-ti",
+        "duracion": "27 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "04/03/2024",
+        "precio": "$ 775.000"
+    },
+    {
+        "id": 85,
+        "nombre": "Arte y Fotografía, Herramientas Creativas para la Producción Fotográfica",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/arte-y-fotografia",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "21/03/2024",
+        "precio": "$ 439.000"
+    },
+    {
+        "id": 86,
+        "nombre": "Creando Videojuegos y Experiencias Inmersivas: Conceptualización y Diseño",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/conceptualizacion-diseno-videojuegos-vr",
+        "duracion": "48 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "5/03/2024",
+        "precio": "$ 1.110.000"
+    },
+    {
+        "id": 87,
+        "nombre": "Preparación para la Certificación Internacional PMP® del Project Management Institute PMI®",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/preparacion-certificacion-internacional-pmp",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "12/03/2024",
+        "precio": "$ 1.705.000"
+    },
+    {
+        "id": 88,
+        "nombre": "Arquitectura Paramétrica: Nuevas Tecnologías y Sostenibilidad",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/arquitectura-parametrica-nuevas-tecnologias-y-sostenibilidad",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "5/03/2024",
+        "precio": "$ 997.000"
+    },
+    {
+        "id": 89,
+        "nombre": "Introducción a la Analítica de Datos: Descubre el Poder de los Datos",
+        "enlace": "introducción-a-la-analítica-de-datos-descubre-el-poder-de-los-datos",
+        "duracion": "39 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "5/03/2024",
+        "precio": "$ 930.000"
+    },
+    {
+        "id": 90,
+        "nombre": "Informática Forense: procedimiento técnico de recolección y tratamiento de evidencias digitales",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/informatica-forense-ciberseguridad",
+        "duracion": "66 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "27/02/2024",
+        "precio": "$ 1.905.000"
+    },
+    {
+        "id": 91,
+        "nombre": "Nexo entre acción humanitaria, desarrollo y construcción de paz",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/nexo-entre-accion-humanitaria",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "28/05/2024",
+        "precio": "$ 790.000"
+    },
+    {
+        "id": 92,
+        "nombre": "Acción Humanitaria; Desarrollo, Construcción de Paz y Gobiernos Autónomos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/accion-humanitaria-gobiernos-autonomos",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "9/04/2024",
+        "precio": "$ 790.000"
+    },
+    {
+        "id": 93,
+        "nombre": "Ciclos de Proyectos de la Acción Humanitaria",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/ciclos-proyectos-accion-humanitaria",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "28/02/2024",
+        "precio": "$ 790.000"
+    },
+    {
+        "id": 94,
+        "nombre": "Comunicaciones, Periodismo y Acción Humanitaria",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/comunicaciones-periodismo-y-accion-humanitaria",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "21/05/2024",
+        "precio": "$ 790.000"
+    },
+    {
+        "id": 95,
+        "nombre": "Acción Humanitaria, Protección y DDHH",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/accion-humanitaria-proteccion-y-ddhh",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "20/02/2024",
+        "precio": "$ 790.000"
+    },
+    {
+        "id": 96,
+        "nombre": "Vigilancia Tecnológica",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/vigilancia-tecnologica",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 97,
+        "nombre": "Acción Humanitaria, Emergencias en Salud y Nutrición",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/accion-humanitaria-emergencias-en-salud-y-nutricion",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "24/07/2024",
+        "precio": "$ 790.000"
+    },
+    {
+        "id": 98,
+        "nombre": "Acción Humanitaria y Población en Movimiento",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/accion-humanitaria-poblacion-movimiento",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "14/05/2024",
+        "precio": "$ 790.000"
+    },
+    {
+        "id": 99,
+        "nombre": "Acción Humanitaria y Poblaciones Diferenciada",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/accion-humanitaria-y-poblaciones-diferenciadas",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "18/06/2024",
+        "precio": "$ 790.000"
+    },
+    {
+        "id": 100,
+        "nombre": "Transformación Continua",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/transformacion-continua",
+        "duracion": "10 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 101,
+        "nombre": "Acción Humanitaria y Medio Ambiente",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/accion-humanitaria-y-medio-ambiente",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "17/04/2024",
+        "precio": "$ 790.000"
+    },
+    {
+        "id": 102,
+        "nombre": "Visualizando el Futuro",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/visualizando-el-futuro",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 103,
+        "nombre": "CASH (Transferencias Monetarias)",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/cash",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "13/08/2024",
+        "precio": "$ 790.000"
+    },
+    {
+        "id": 104,
+        "nombre": "Acción Humanitaria, Definición, Horizonte y Pautas",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/accion-humanitaria-pautas",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "13/08/2024",
+        "precio": "$ 790.000"
+    },
+    {
+        "id": 105,
+        "nombre": "WASH",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/wash",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "26/07/2024",
+        "precio": "$ 790.000"
+    },
+    {
+        "id": 106,
+        "nombre": "Sistemas Multiequipos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/sistemas-multiequipos",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 107,
+        "nombre": "Pensamiento Creativo",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/pensamiento-creativo-cea",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 108,
+        "nombre": "Planeación Estratégica",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/planeacion-estrategica",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 109,
+        "nombre": "Toma de Decisiones",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/toma-de-decisiones",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 110,
+        "nombre": "Resolución de Conflictos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/resolucion-de-conflictos",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 111,
+        "nombre": "Reconocimiento de Talentos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/reconocimiento-de-talentos",
+        "duracion": "10 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 112,
+        "nombre": "Pensamiento estratégico",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/pensamiento-estrategico",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 113,
+        "nombre": "Protocolo de Negocios",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/protocolo-de-negocios",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 114,
+        "nombre": "Trabajo en Equipo",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/trabajo-en-equipo",
+        "duracion": "10 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 115,
+        "nombre": "Negocios Éticos y Sostenibles",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/negocios-eticos-y-sostenibles",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 116,
+        "nombre": "Mindfulness para  la Empleabilidad: El Capital Psicológico",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/el-capital-psicologico",
+        "duracion": "10 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 117,
+        "nombre": "Orientación al Cliente",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/orientacion-al-cliente",
+        "duracion": "10 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 118,
+        "nombre": "Marco Legal para la Sostenibilidad",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/marco-legal-para-la-sostenibilidad",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 119,
+        "nombre": "Orientación al Logro",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/orientacion-al-logro",
+        "duracion": "10 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 120,
+        "nombre": "Modelo de negocio",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/modelo-de-negocio",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 121,
+        "nombre": "Liderazgo personal",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/liderazgo-personal",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 122,
+        "nombre": "Mentoring Ejecutivo",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/mentoring-ejecutivo",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 123,
+        "nombre": "Introducción a la gestión del riesgo",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/introduccion-a-la-gestion-del-riesgo",
+        "duracion": "10 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 124,
+        "nombre": "Introducción General a la Empleabilidad",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/introduccion-general-a-la-empleabilidad",
+        "duracion": "10 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 125,
+        "nombre": "Inspirando con el Ejemplo",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/inspirando-con-el-ejemplo",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 126,
+        "nombre": "Introducción a la Gerencia Estratégica de Proyectos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/introduccion-a-la-gerencia-estrategica-de-proyectos",
+        "duracion": "16 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 190.000"
+    },
+    {
+        "id": 127,
+        "nombre": "Inteligencia de Negocios",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/inteligencia-de-negocios2",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 128,
+        "nombre": "Liderazgo para el Cambio",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/liderazgo-para-el-cambio",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 129,
+        "nombre": "Innovación y Creatividad",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/innovacion-y-creatividad",
+        "duracion": "10 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 130,
+        "nombre": "Inteligencia Emocional",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/inteligencia-emocional",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 131,
+        "nombre": "Habilidades de Empleabilidad Medias: El Capital Social",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/el-capital-social",
+        "duracion": "10 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 132,
+        "nombre": "Habilidades de Empleabilidad Básicas: El Capital Humano",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/el-capital-humano",
+        "duracion": "10 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 133,
+        "nombre": "Habilidades, Clave de Empleabilidad",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/habilidades-clave-de-empleabilidad",
+        "duracion": "10 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 134,
+        "nombre": "Habilidades de Empleabilidad Avanzadas: El Capital Cultural",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/el-capital-cultural",
+        "duracion": "10 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 135,
+        "nombre": "Habilidades para ser Mentor",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/habilidades-para-ser-mentor",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 136,
+        "nombre": "Gestionando Decisiones",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/gestionando-decisiones",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 137,
+        "nombre": "Estrategia de Ventas desde Casa",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/estrategia-de-ventas-desde-casa",
+        "duracion": "20 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 138,
+        "nombre": "Gestión de la Responsabilidad Integral",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/gestion-de-la-responsabilidad-integral",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 139,
+        "nombre": "La genialidad de Bergoglio y la alegría de Francisco, rasgos de un hombre",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/genialidad-de-bergoglio",
+        "duracion": "15 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ Gratuito"
+    },
+    {
+        "id": 140,
+        "nombre": "Gestión del Tiempo",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/gestion-del-tiempo",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 141,
+        "nombre": "Fundamentos de PMI",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/fundamentos-de-pmi",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 142,
+        "nombre": "Habilidades Comunicativas",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/habilidades-comunicativas",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 143,
+        "nombre": "Gestión de Insights",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/gestion-de-insights",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 144,
+        "nombre": "Funcionamiento en Red",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/funcionamiento-en-red",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 145,
+        "nombre": "Dirección de proyectos estratégicos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/direccion-de-proyectos-estrategicos",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 146,
+        "nombre": "Equipos eficaces",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/equipos-eficaces",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 147,
+        "nombre": "Empleabilidad enfocada al mantenimiento",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/empleabilidad-enfocada-al-mantenimiento",
+        "duracion": "10 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 148,
+        "nombre": "La Eficacia en la Transición",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/la-eficacia-en-la-transicion",
+        "duracion": "10 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 149,
+        "nombre": "Empoderando equipos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/empoderando-equipos",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 150,
+        "nombre": "El cambio como necesidad",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/el-cambio-como-necesidad",
+        "duracion": "10 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 151,
+        "nombre": "Cadena de valor",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/cadena-de-valor",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 152,
+        "nombre": "Analítica para Directivos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/analitica-para-directivos",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 153,
+        "nombre": "Empleabilidad y Contrato Psicológico",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/empleabilidad-y-contrato-psicologico",
+        "duracion": "10 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 154,
+        "nombre": "Análisis del riesgo financiero",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/analisis-del-riesgo-financiero",
+        "duracion": "10 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 155,
+        "nombre": "Gimnasio Educativo Virtual: Acompañamiento, tutoría y evaluación en la educación mediada por TIC",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/gimnasioeducativovirtual-acompanamiento-tutoria-evaluacion",
+        "duracion": "15 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 156,
+        "nombre": "El Papa y su inspiración en Francisco de Asís: ecología, dignidad y fraternidad",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/el-papa-y-su-inspiracion",
+        "duracion": "15 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ Gratuito"
+    },
+    {
+        "id": 157,
+        "nombre": "Gimnasio Educativo Virtual: Herramientas Prácticas para la Creación de Actividades E-learning",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/gimnasioeducativovirtual-actividades-e-learning",
+        "duracion": "15 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 158,
+        "nombre": "Gimnasio Educativo Virtual: Introducción al E-learning y Tendencias Pedagógicas",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/gimnasioeducativovirtual-introduccion-e-learning",
+        "duracion": "15 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 159,
+        "nombre": "Papa Francisco: aporte latinoamericano a la iglesia universal",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/papa-francisco",
+        "duracion": "15 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ Gratuito"
+    },
+    {
+        "id": 160,
+        "nombre": "ABC de la Innovación",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/abc-de-la-innovacion",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 161,
+        "nombre": "Competencias Digitales del Docente: Competencia de Gestión Educativa",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/comp-digitales-docente-competencia-gestion-educativa",
+        "duracion": "10 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 162,
+        "nombre": "Toma de Muestras Biológicas para el Análisis por el Laboratorio Clínico",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/toma-de-muestras-biologicas-para-el-analisis",
+        "duracion": "18 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 163,
+        "nombre": "Competencias Digitales del Docente: Competencia de Gestión del Conocimiento",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/compe-digitales-docente-gestion-del-conocimiento",
+        "duracion": "10 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 164,
+        "nombre": "Competencias Digitales del Docente: Competencia Comunicativa",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/comp-digitales-docente-competencia-comunicativa",
+        "duracion": "10 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 165,
+        "nombre": "Competencias Digitales del Docente: Competencia Tecno Pedagógica",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/comp-digitales-docente-competencia-tecno-pedagogica",
+        "duracion": "10 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 166,
+        "nombre": "Competencias Digitales del Docente: Competencia Investigativa",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/compe-digitales-docente-competencia-investigativa",
+        "duracion": "10 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 89.000"
+    },
+    {
+        "id": 167,
+        "nombre": "TENDENCIAS APLICADAS AL SECTOR INMOBILIARIO PROPTECH",
+        "enlace": "tecnologías-y-tendencias-aplicadas-al-sector-inmobiliario-proptech",
+        "duracion": "42 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "-",
+        "precio": "$ 950.000"
+    },
+    {
+        "id": 168,
+        "nombre": "¿Cómo Prepararse para el Proceso de Certificación como Traductor e Intérprete Oficial del inglés?",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/traductor-oficial-del-ingles",
+        "duracion": "40 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "6/03/2024",
+        "precio": "$ 1.070.000"
+    },
+    {
+        "id": 169,
+        "nombre": "Pruebas Saber 11 FULL - Presencial",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/saber-11-presencial",
+        "duracion": "106 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "6/04/2024",
+        "precio": "$ 800.000"
+    },
+    {
+        "id": 170,
+        "nombre": "Gobierno Corporativo",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/gobierno-corporativo",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "Inscripción abierta y permanente",
+        "precio": "$ 110.000"
+    },
+    {
+        "id": 171,
+        "nombre": "Microsoft Power BI",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/power-bi",
+        "duracion": "48 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "26/02/2024",
+        "precio": "$ 1.560.000"
+    },
+    {
+        "id": 172,
+        "nombre": "LOS PROGRAMAS DE TRANSPARENCIA Y ÉTICA PÚBLICA - PTEP Y EMPRESARIAL - PTEE CARACTERÍSTICAS, ESTÁNDARES, DIFERENCIAS Y SEMEJANZAS",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/los-programas-de-transparencia-y-%C3%89tica-p%C3%9Ablica-ptep-y-empresarial-ptee-caracter%C3%8Dsticas-est%C3%81ndares-diferencias-y-semejanzas",
+        "duracion": "46 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "11/04/2024",
+        "precio": "$ 1.009.000"
+    },
+    {
+        "id": 173,
+        "nombre": "Orientación profesional",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/orientacionprofesional",
+        "duracion": "18 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "20/04/2024",
+        "precio": "$ 515.000"
+    },
+    {
+        "id": 174,
+        "nombre": "Metodología Integral para la Organización y Producción de Eventos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/organizacion-y-produccion-de-eventos",
+        "duracion": "60 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "8/04/2024",
+        "precio": "$ 1.456.000"
+    },
+    {
+        "id": 175,
+        "nombre": "Erotismo, sexualidad y espiritualidad. El placer sagrado como fuente de crecimiento",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/erotismo-sexualidad-y-espiritualidad",
+        "duracion": "12 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "16/04/2024",
+        "precio": "$ 230.000"
+    },
+    {
+        "id": 176,
+        "nombre": "Analítica de Datos y Automatización de Procesos en Power BI y Automate",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/analitica-de-datos-automatizacion-inteligente-de-procesos",
+        "duracion": "50 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "06/03/2024",
+        "precio": "$ 1.495.000"
+    },
+    {
+        "id": 177,
+        "nombre": "Protección de Datos Personales: Habeas Data",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/habeas-data",
+        "duracion": "15 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "12/03/2024",
+        "precio": "$ 365.000"
+    },
+    {
+        "id": 178,
+        "nombre": "Corrección de Estilo",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/correccion-de-estilo-online",
+        "duracion": "60 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "11/03/2024",
+        "precio": "$ 1.180.000"
+    },
+    {
+        "id": 179,
+        "nombre": "Herramientas para los Procesos de Selección por Competencias",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/procesos-de-seleccion-por-competencias",
+        "duracion": "20 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "12/03/2024",
+        "precio": "$ 440.000"
+    },
+    {
+        "id": 180,
+        "nombre": "Club Xavier",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/club-xavier",
+        "duracion": "20 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "1/03/2024",
+        "precio": "$ 360.000"
+    },
+    {
+        "id": 181,
+        "nombre": "Excel Avanzado",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/excel-avanzado",
+        "duracion": "49 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "12/04/2024",
+        "precio": "$ 1.200.000"
+    },
+    {
+        "id": 182,
+        "nombre": "Introducción al Teatro Aplicado",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/introducci%C3%B3n-al-teatro-aplicado",
+        "duracion": "30 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "1/04/2024",
+        "precio": "$ 760.000"
+    },
+    {
+        "id": 183,
+        "nombre": "Mindfulness para Reducción del Estrés",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/mindfulness-reduccion-estres",
+        "duracion": "25 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "7/03/2024",
+        "precio": "$ 420.000"
+    },
+    {
+        "id": 184,
+        "nombre": "Prematrimonial",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/prematrimonial",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "11/04/2024",
+        "precio": "$ 230.000"
+    },
+    {
+        "id": 185,
+        "nombre": "Control de costos, gestión financiera y revenue management para rentabilizar negocios gastronómicos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/control-de-costos-en-alimentos",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "28/05/2024",
+        "precio": "$ 1.042.000"
+    },
+    {
+        "id": 186,
+        "nombre": "Explorando el Cerebro, Neurociencia Clínica y Cognitiva",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/explorando-el-cerebro-neurociencia-clinica-y-cognitiva",
+        "duracion": "30 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "27/02/2024",
+        "precio": "$ 890.000"
+    },
+    {
+        "id": 187,
+        "nombre": "Expresión Oral y Manejo de Públicos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/taller-de-expresion-oral-y-manejo-de-publicos",
+        "duracion": "50 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "29/04/2024",
+        "precio": "$ 1.065.000"
+    },
+    {
+        "id": 188,
+        "nombre": "Manejo de voz y locución",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/manejo-de-voz-y-locucion",
+        "duracion": "30 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "9/04/2024",
+        "precio": "$ 780.000"
+    },
+    {
+        "id": 189,
+        "nombre": "Material Rodante, Construcción y Mantenimiento Ferroviario",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/construccion-y-mantenimiento-ferroviario",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "23/05/2024",
+        "precio": "$ 1.325.000"
+    },
+    {
+        "id": 190,
+        "nombre": "Diseño Mecanicista Racional de Pavimentos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/dise%C3%B1o-mecanicista-racional-de-pavimentos",
+        "duracion": "36 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "02/05/2024",
+        "precio": "$ 1.545.000"
+    },
+    {
+        "id": 191,
+        "nombre": "Construcción Pavimentos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/construcci%C3%B3n-de-pavimentos",
+        "duracion": "36 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "20/06/2024",
+        "precio": "$ 1.545.000"
+    },
+    {
+        "id": 192,
+        "nombre": "Gestión de Proyectos con Microsoft® Project",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/proyectos-con-microsoft-project",
+        "duracion": "16 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "5/03/2024",
+        "precio": "$ 440.000"
+    },
+    {
+        "id": 193,
+        "nombre": "Actualización en Código de Procedimiento Administrativo y de lo Contencioso Administrativo - Reforma Ley 2080",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/procedimiento-administrativo",
+        "duracion": "20 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "10/04/2024",
+        "precio": "$ 515.000"
+    },
+    {
+        "id": 194,
+        "nombre": "Materiales, Equipos y Técnicas para Carreteras",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/materiales-equipos-y-tecnicas-para-carreteras",
+        "duracion": "30 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "04/04/2024",
+        "precio": "$ 1.325.000"
+    },
+    {
+        "id": 195,
+        "nombre": "Diseño Geométrico Ferrocarriles",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/diseno-geometrico-ferrocarriles",
+        "duracion": "30 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "11/04/2024",
+        "precio": "$ 997.000"
+    },
+    {
+        "id": 196,
+        "nombre": "Metodología BIM en Ferrovías",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/metodologia-bim-en-ferrovias",
+        "duracion": "30 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "27/07/2024",
+        "precio": "$ 1.325.000"
+    },
+    {
+        "id": 197,
+        "nombre": "Cuidado al Adulto Mayor para Cuidadores No Formales",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/cuidado-adulto-mayor-no-formales",
+        "duracion": "20 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "12/03/2024",
+        "precio": "$ 320.000"
+    },
+    {
+        "id": 198,
+        "nombre": "Urgencias en Edad Escolar",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/urgencias-escolares",
+        "duracion": "10 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "13/04/2024",
+        "precio": "$ 540.000"
+    },
+    {
+        "id": 199,
+        "nombre": "Reforma Tributaria 2022",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/reforma-tributaria",
+        "duracion": "48 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "22/04/2024",
+        "precio": "$ 1.180.000"
+    },
+    {
+        "id": 200,
+        "nombre": "El Diseño Teatral: Escenografía, Iluminación y Vestuario",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/escenografia-iluminacion-y-vestuario",
+        "duracion": "42 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "11/03/2024",
+        "precio": "$ 672.000"
+    },
+    {
+        "id": 201,
+        "nombre": "Hablemos sobre la muerte desde distintas perspectivas y significados",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/hablemos-sobre-la-muerte",
+        "duracion": "12 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "5/03/2024",
+        "precio": "$ 230.000"
+    },
+    {
+        "id": 202,
+        "nombre": "Radioprotección y Radiología en Seguridad Odontológica: Resolución 482",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/radioproteccion-y-radiologia-odontologica",
+        "duracion": "16 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "12/04/2024",
+        "precio": "$ 215.000"
+    },
+    {
+        "id": 203,
+        "nombre": "Comunicación Asertiva y Estratégica para Directivos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/comunicacion-asertiva-y-estrategica-para-directivos",
+        "duracion": "59 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "23/04/2024",
+        "precio": "$ 1.180.000"
+    },
+    {
+        "id": 204,
+        "nombre": "Excel, Access y Power BI para el Análisis de Información y la Generación de Reportes Efectivos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/excel-access-y-power-bi-p",
+        "duracion": "60 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "3/05/2024",
+        "precio": "$ 1.180.000"
+    },
+    {
+        "id": 205,
+        "nombre": "Seguimiento al Paciente con Quimioterapia Oral",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/quimioterapia-oral",
+        "duracion": "25 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "27/06/2024",
+        "precio": "$ 810.000"
+    },
+    {
+        "id": 206,
+        "nombre": "Mindfulness con Énfasis en Educación",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/mindfulness-enfasis-educacion",
+        "duracion": "24 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "7/03/2024",
+        "precio": "$ 450.000"
+    },
+    {
+        "id": 207,
+        "nombre": "Reanimación Cardiopulmonar Neonatal",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/reanimacion-neonatal",
+        "duracion": "8 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "9/03/2024",
+        "precio": "$ 595.000"
+    },
+    {
+        "id": 208,
+        "nombre": "Grandes Ideas del Yoga:  un Recorrido por la Filosofía y la Cosmovisión Originaria del Yoga y sus Distintas Vertientes",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/grandes-ideas-del-yoga",
+        "duracion": "18 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "4/04/2024",
+        "precio": "$ 420.000"
+    },
+    {
+        "id": 209,
+        "nombre": "Resiliencia: transformando la adversidad",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/resiliencia-transformando-la-adversidad",
+        "duracion": "15 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "8/04/2024",
+        "precio": "$ 245.000"
+    },
+    {
+        "id": 210,
+        "nombre": "Estadística Básica con R",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/estadistica-basica-con-r",
+        "duracion": "40 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "16/04/2024",
+        "precio": "$ 1.050.000"
+    },
+    {
+        "id": 211,
+        "nombre": "¿Hay Vida Después de la Muerte? Aproximaciones Antropológicas, Teológicas y Culturales",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/vida-despues-de-la-muerte",
+        "duracion": "16 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "2/04/2024",
+        "precio": "$ 395.000"
+    },
+    {
+        "id": 212,
+        "nombre": "Investigación de Enfermedad Laboral",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/investigaci%C3%B3n-de-enfermedad-laboral",
+        "duracion": "32 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "13/08/2024",
+        "precio": "$ 997.000"
+    },
+    {
+        "id": 213,
+        "nombre": "Presentación y Ejecución de Proyectos del Sistema General de Regalías",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/presentacion-proyectos-sistema-regalias",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "10/04/2024",
+        "precio": "$ 1.200.000"
+    },
+    {
+        "id": 214,
+        "nombre": "Desarrollo Regional",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/desarrollo-regional",
+        "duracion": "36 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "7/05/2024",
+        "precio": "$ 1.110.000"
+    },
+    {
+        "id": 215,
+        "nombre": "Implementación de la Economía Circular y diseño de productos sostenibles",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/implementacion-economia-circular",
+        "duracion": "42 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "2/04/2024",
+        "precio": "$ 1.050.000"
+    },
+    {
+        "id": 216,
+        "nombre": "Introducción a las nuevas prácticas filosóficas",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/introduccion-nuevas-practicas-filosoficas",
+        "duracion": "32 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "30/04/2024",
+        "precio": "$ 599.000"
+    },
+    {
+        "id": 217,
+        "nombre": "Desbloqueo Creativo para Creativos y no Creativos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/desbloqueo-creativo",
+        "duracion": "16 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "2/04/2024",
+        "precio": "$ 280.000"
+    },
+    {
+        "id": 218,
+        "nombre": "Literatura, Sentido y Vida",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/literatura-sentido-vida",
+        "duracion": "30 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "9/04/2024",
+        "precio": "$ 450.000"
+    },
+    {
+        "id": 219,
+        "nombre": "Inglés Legal - Introducción al Sistema Legal de los EEUU",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/ingles-legal",
+        "duracion": "50 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "7/05/2024",
+        "precio": "$ 1.335.000"
+    },
+    {
+        "id": 220,
+        "nombre": "Ambientes seguros y preventivos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/ambientes-seguros-y-preventivos",
+        "duracion": "40 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "1/04/2024",
+        "precio": "$ 400.000"
+    },
+    {
+        "id": 221,
+        "nombre": "Modelo Psicodinámico de la Entrevista",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/modelo-psicodinamico-entrevista",
+        "duracion": "20 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "9/04/2024",
+        "precio": "$ 360.000"
+    },
+    {
+        "id": 222,
+        "nombre": "INNOVACIÓN SOCIAL",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/innovacion-social",
+        "duracion": "25 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "2/04/2024",
+        "precio": "$ 850.000"
+    },
+    {
+        "id": 223,
+        "nombre": "Estructuración y Financiación de Proyectos de Impacto ESG (Ambiental, Social y de Gobernanza)",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/proyectos-impacto-esg",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "9/04/2024",
+        "precio": "$ 997.000"
+    },
+    {
+        "id": 224,
+        "nombre": "Redacción y Ortografía - Virtual",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/redaccionyortografia",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "9/05/2024",
+        "precio": "$ 910.000"
+    },
+    {
+        "id": 225,
+        "nombre": "Producción Musical para Aficionados: de la Composición a la Grabación",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/produccionmusical",
+        "duracion": "60 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "4/05/2024",
+        "precio": "$ 745.000"
+    },
+    {
+        "id": 226,
+        "nombre": "Gestión de PQRs, una forma de retener clientes",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/gestion-de-pqrs",
+        "duracion": "12 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "20/05/2024",
+        "precio": "$ 365.000"
+    },
+    {
+        "id": 227,
+        "nombre": "Pruebas Saber 11 - FULL - Presencial",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/prueba-saber-11-full-presencial",
+        "duracion": "106 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "20/04/2024",
+        "precio": "$ 800.000"
+    },
+    {
+        "id": 228,
+        "nombre": "Argumentación Jurídica",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/argumentacion-juridica",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "14/03/20024",
+        "precio": "$ 1.165.000"
+    },
+    {
+        "id": 229,
+        "nombre": "Microsoft Project Aplicado a Gestión de Obras de Construcción",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/microsoft-project-en-obras-de-construccion",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "21/05/2024",
+        "precio": "$ 1.435.000"
+    },
+    {
+        "id": 230,
+        "nombre": "Preparación al Examen de Ingreso a la Carrera Diplomática y Consular Colombiana",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/preparacion-examen-carrera-diplomatica",
+        "duracion": "60 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "9/07/2024",
+        "precio": "$ 1.370.000"
+    },
+    {
+        "id": 231,
+        "nombre": "Automatización Robótica de Procesos RPA: Fundamentos e Implementación",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/automatizacion-robotica-procesos-rpa",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "4/04/2024",
+        "precio": "$ 890.000"
+    },
+    {
+        "id": 232,
+        "nombre": "R como herramienta SIG (Sistemas de información geográfica)",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/r-como-herramienta-sig",
+        "duracion": "69 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "6/07/2024",
+        "precio": "$ 1.625.000"
+    },
+    {
+        "id": 233,
+        "nombre": "SECOP II",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/secop",
+        "duracion": "8 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "26/04/2024",
+        "precio": "$ 252.000"
+    },
+    {
+        "id": 234,
+        "nombre": "Microsoft Power BI con Inteligencia Artificial",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/microsoft-power-bi-con-inteligencia-artificial",
+        "duracion": "51 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "1/04/2024",
+        "precio": "$ 1.760.000"
+    },
+    {
+        "id": 235,
+        "nombre": "Elaboración de Mapas con R: De lo estático a lo dinámico",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/elaboración-de-mapas-con-r-de-lo-estático-a-lo-dinámico",
+        "duracion": "34 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "3/04/2024",
+        "precio": "$ 790.000"
+    },
+    {
+        "id": 236,
+        "nombre": "Tecnología básica de concreto",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/tecnologia-basica-de-concreto",
+        "duracion": "20 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "4/03/2024",
+        "precio": "$ 250.000"
+    },
+    {
+        "id": 237,
+        "nombre": "Control de calidad para concreto y mortero hidráulico",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/control-de-calidad-para-concreto-y-mortero-hidraulico",
+        "duracion": "20 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "4/03/2024",
+        "precio": "$ 250.000"
+    },
+    {
+        "id": 238,
+        "nombre": "Derecho Administrativo Sancionatorio - Reforma Ley 2080",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/derecho-administrativo-reforma-ley-2080",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "4/04/2024",
+        "precio": "$ 1.160.000"
+    },
+    {
+        "id": 239,
+        "nombre": "Extinción de Dominio",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/extincion-de-dominio",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "28/05/2024",
+        "precio": "$ 1.235.000"
+    },
+    {
+        "id": 240,
+        "nombre": "Cómo Participar Exitosamente en Ferias y Exposiciones",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/participar-exitosamente-ferias-y-exposiciones",
+        "duracion": "28 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "1/04/2024",
+        "precio": "$ 660.000"
+    },
+    {
+        "id": 241,
+        "nombre": "Podcasting: Creación de Narrativas Sonoras 2.0",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/podcasting",
+        "duracion": "36 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "16/04/2024",
+        "precio": "$ 583.000"
+    },
+    {
+        "id": 242,
+        "nombre": "Certificación Internacional en Competencias Emocionales - CREARE",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/creare",
+        "duracion": "24 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "15/05/2024",
+        "precio": "$ 1.567.328"
+    },
+    {
+        "id": 243,
+        "nombre": "Preparación de Estados Financieros",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/preparacion-estados-financieros",
+        "duracion": "48 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "21/05/2024",
+        "precio": "$ 1.110.000"
+    },
+    {
+        "id": 244,
+        "nombre": "Lectura Crítica",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/lectura-critica",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "11/04/2024",
+        "precio": "$ 785.000"
+    },
+    {
+        "id": 245,
+        "nombre": "Cromatografía líquida de alta eficiencia (HPLC) y de gases (GC)",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/cromatografia-liquida",
+        "duracion": "38 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "8/04/2024",
+        "precio": "$ 1.960.000"
+    },
+    {
+        "id": 246,
+        "nombre": "Debates y Tecnologías Contemporáneas para la Industria Editorial",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/debates-y-tecnologias",
+        "duracion": "28 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "19/06/2024",
+        "precio": "$ 660.000"
+    },
+    {
+        "id": 247,
+        "nombre": "Marketing, Ventas y Experiencia del Cliente para Negocios Gastronómicos",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/marketing-ventas-y-experiencia-negocios-gastronomicos",
+        "duracion": "48 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "28/05/2024",
+        "precio": "$ 1.220.000"
+    },
+    {
+        "id": 248,
+        "nombre": "Inmersión Total: Desarrollo y Producción de Experiencias Interactivas",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/desarrollo-de-videojuegos-vr",
+        "duracion": "48 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "7/05/2024",
+        "precio": "$ 1.110.000"
+    },
+    {
+        "id": 249,
+        "nombre": "Gerencia de Proyectos Sociales",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/gerencia-proyectos-sociales",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "10/05/2024",
+        "precio": "$ 890.000"
+    },
+    {
+        "id": 250,
+        "nombre": "Botánica Ilustrada: de sus Propiedades al Sketchbook",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/botanica-ilustrada-sketchbook",
+        "duracion": "32 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "9/04/2024",
+        "precio": "$ 550.000"
+    },
+    {
+        "id": 251,
+        "nombre": "Storytelling, una Forma de Impactar Empresas Multiculturales",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/storytelling-una-forma-de-impactar-empresas-multiculturales",
+        "duracion": "20 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "2/07/2024",
+        "precio": "$ 549.000"
+    },
+    {
+        "id": 252,
+        "nombre": "Segmentación (Clustering) con Foco en Segmentación de Mercados /Clientes",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/segmentacion-clustering-con-foco-en-segmentacion-de-mercados-clientes",
+        "duracion": "18 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "20/05/2024",
+        "precio": "$ 549.000"
+    },
+    {
+        "id": 253,
+        "nombre": "Produciendo desde la mezcla, mezclando desde la producción: producción musical y mezcla en digital",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/produciendo-desde-la-mezcla",
+        "duracion": "30 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "6/07/2024",
+        "precio": "$ 460.000"
+    },
+    {
+        "id": 254,
+        "nombre": "Análisis Multimodal: Procesamiento de Datos Textuales, Visuales, Sonoros y Gestuales",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/analisis-multimodal",
+        "duracion": "20 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "28/05/2024",
+        "precio": "$ 560.000"
+    },
+    {
+        "id": 255,
+        "nombre": "Organización y Conservación de Archivos Digitales",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/organizacion-conservacion-archivos-digitales",
+        "duracion": "30 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "5/06/2024",
+        "precio": "$ 660.000"
+    },
+    {
+        "id": 256,
+        "nombre": "Gestión de riesgo reputacional y manejo de crisis",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/gestión-de-riesgo-reputacional-y-manejo-de-crisis",
+        "duracion": "24 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "7/05/2024",
+        "precio": "$ 750.000"
+    },
+    {
+        "id": 257,
+        "nombre": "Comunicación interna y su función estratégica",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/comunicación-interna-y-su-función-estrategica",
+        "duracion": "24 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "8/05/2024",
+        "precio": "$ 870.000"
+    },
+    {
+        "id": 258,
+        "nombre": "Derecho Disciplinario",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/actualizacion-derecho-disciplinario",
+        "duracion": "40 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "9/05/2024",
+        "precio": "$ 1.154.000"
+    },
+    {
+        "id": 259,
+        "nombre": "Fotografía Avanzada: Análogo-Digital",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/fotografia-analogo-digital",
+        "duracion": "54 Horas",
+        "nivel": "Avanzado",
+        "fecha_inicio": "11/04/2024",
+        "precio": "$ 1.232.000"
+    },
+    {
+        "id": 260,
+        "nombre": "MUSIC MASTERS_Antioquia",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/music-masters",
+        "duracion": "48 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "5/04/2024",
+        "precio": "$ 1.850.000"
+    },
+    {
+        "id": 261,
+        "nombre": "Salud Mental Comunitaría",
+        "enlace": " /salud-mental-comunitaria",
+        "duracion": "80 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "11/04/2024",
+        "precio": "$ 2.200.000"
+    },
+    {
+        "id": 262,
+        "nombre": "Logística Inversa: Herramientas Prácticas para una Economía Circular",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/logística-inversa-herramientas-prácticas-para-una-economía-circular",
+        "duracion": "24 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "23/04/2024",
+        "precio": "$ 580.000"
+    },
+    {
+        "id": 263,
+        "nombre": "Dirección de Arte para Teatro",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/direccion-arte-teatro",
+        "duracion": "18 Horas",
+        "nivel": "Intermedio",
+        "fecha_inicio": "7/06/2024",
+        "precio": "$ 270.000"
+    },
+    {
+        "id": 264,
+        "nombre": "Introducción a la Práctica de la Pintura Contemporánea",
+        "enlace": "https://educacionvirtual.javeriana.edu.co/introduccion-a-la-pintura-contemporanea",
+        "duracion": "20 Horas",
+        "nivel": "Básico",
+        "fecha_inicio": "25/04/2024",
+        "precio": "$ 292.000"
+    }
+]
