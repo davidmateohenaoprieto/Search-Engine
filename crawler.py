@@ -73,10 +73,6 @@ class CourseCrawler:
                     self.visited_urls.add(url)
                     visited_count += 1
 
-import csv
-import json
-import re
-
 class Indexer:
     def __init__(self, dictionary_file):
         self.dictionary_file = dictionary_file
@@ -123,8 +119,15 @@ class CourseComparator:
         course1_words = set(self.index.get(course1_id, []))
         course2_words = set(self.index.get(course2_id, []))
         common_words = course1_words.intersection(course2_words)
+        
+        # Verificar si hay palabras comunes
+        if not common_words:
+            return 0.0
+        
+        # Calcular la similitud evitando la división por cero
         similarity = len(common_words) / (len(course1_words) + len(course2_words) - len(common_words))
         return similarity
+
 
 class CourseSearcher:
     def __init__(self, index):
@@ -138,6 +141,16 @@ class CourseSearcher:
         sorted_courses = sorted(relevant_courses.items(), key=lambda x: x[1], reverse=True)
         return [course_id for course_id, relevance in sorted_courses]
 
+
+def find_non_zero_similarity(comparator, courses):
+    for course1_id in courses:
+        for course2_id in courses:
+            if course1_id != course2_id:
+                similarity = comparator.compare(course1_id, course2_id)
+                if similarity != 0.0:
+                    return course1_id, course2_id, similarity
+    return None, None, None
+
 def go(n:int, dictionary:str, output:str):
     crawler = CourseCrawler("https://educacionvirtual.javeriana.edu.co/nuestros-programas-nuevo", "educacionvirtual.javeriana.edu.co")
     crawler.crawl(n)
@@ -146,6 +159,28 @@ def go(n:int, dictionary:str, output:str):
     indexer.load_stop_words("stop_words.json")
     indexer.index_courses_from_json("cursos.json")
     indexer.save_index_to_csv(output)
+
+    # Después de haber construido el índice de cursos
+    comparator = CourseComparator(indexer.index)
+    searcher = CourseSearcher(indexer.index)
+
+    # Suponiendo que courses es una lista de todos los identificadores de cursos
+    courses = indexer.index.keys()
+
+    # Usar el comparador de cursos para encontrar una similitud diferente de cero
+    course1_id, course2_id, similarity = find_non_zero_similarity(comparator, courses)
+    if similarity is not None:
+        print("Se encontró una similitud diferente de cero entre los cursos:")
+        print("Curso 1:", course1_id)
+        print("Curso 2:", course2_id)
+        print("Similitud:", similarity)
+    else:
+        print("No se encontró ninguna similitud diferente de cero entre los cursos.")
+
+    # Ejemplo de uso del buscador
+    keywords = ["fotografía", "luminosidad", "enfoque", "composición"]
+    relevant_courses = searcher.search(keywords)
+    print("Cursos relevantes encontrados con las palabras de prueba (fotografía, luminosidad, enfoque, composición):", relevant_courses)
 
 
 def main():
